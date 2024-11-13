@@ -5,6 +5,17 @@
     margin: 20px 170px;
 }
 
+.navbar p{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(267deg, #DA7C25 0.35%, #B923E1 102.06%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
 .nav-menu{
     display: flex;
     align-items: center;
